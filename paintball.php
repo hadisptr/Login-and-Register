@@ -50,7 +50,7 @@ $_SESSION['username'];
 
     <a href="index.php" class="logo d-flex align-items-center  me-auto me-lg-0">
         <!-- Uncomment the line below if you also wish to use an image logo -->
-        <img src="assets/img/logo.png" alt="">
+        <!-- <img src="assets/img/logo.png" alt=""> -->
         <!-- <i class="bi bi-camera"></i> -->
         <img src="imk.png" class="img-fluid" alt="">
         <h1>IMJOIN</h1>
