@@ -15,5 +15,6 @@ if(isset($_POST['register']))
     }else{
         die(mysqli_error($conn)) ;
     }
+    
    
 }
